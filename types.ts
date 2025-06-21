@@ -25,3 +25,4 @@ line2 = 10;
 // Void type
 (() => console.log('123'))();
 
+
